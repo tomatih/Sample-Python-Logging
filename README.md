@@ -15,4 +15,4 @@ import SetUp
 logger = SetUp.GetLogger()
 ```
 ## Example
-![Example Image](README%20Assets/Example.png)
+![Example Image](https://raw.githubusercontent.com/tomatih/Sample-Python-Logging/master/README%20Assets/Example.png)
